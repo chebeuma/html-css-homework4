@@ -10,7 +10,7 @@ border-top-style: outset;
 border-left-style: outset;
 border-bottom-style:inset;
 border-right-style:inset;
-border-right-width: 30px;
+width: 962px;
 }
 .mob{
     margin-top: -14px;
@@ -30,11 +30,11 @@ border-right-width: 30px;
 }
 .search{
 
-margin-left: 151px;
+margin-left: 139px;
 }
 .store{
-    margin-left: -17px;
-    margin-top: -27px; 
+    margin-left: 0px;
+    margin-top: -42px; 
 }
 .cart{
     margin-left: -26px;
