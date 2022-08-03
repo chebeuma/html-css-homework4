@@ -1,0 +1,47 @@
+body{
+    padding: 0;
+
+}
+.header{
+display: flex;
+flex-direction: row;
+height: 50px;
+border-top-style: outset;
+border-left-style: outset;
+border-bottom-style:inset;
+border-right-style:inset;
+border-right-width: 30px;
+}
+.mob{
+    margin-top: -14px;
+    padding-left: 18px;
+}
+.shop{
+  color: rgb(242, 70, 185); 
+  padding-left: 187px; 
+}
+.coverage{
+    color: rgb(242, 70, 185); 
+   padding-left: 106px;
+   margin-top: 17px;
+  } 
+.main-content{
+    width: 1424px;
+}
+.search{
+
+margin-left: 151px;
+}
+.store{
+    margin-left: -17px;
+    margin-top: -27px; 
+}
+.cart{
+    margin-left: -26px;
+    margin-top: -23px;  
+}
+.my{
+    margin-left: -17px;
+    margin-top: -1px;  
+}
+
