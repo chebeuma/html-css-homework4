@@ -10,31 +10,36 @@ border-top-style: outset;
 border-left-style: outset;
 border-bottom-style:inset;
 border-right-style:inset;
-width: 962px;
+width: 1236px;
 }
 .mob{
     margin-top: -14px;
-    padding-left: 18px;
+    padding-left: 33px;
 }
 .shop{
   color: rgb(242, 70, 185); 
-  padding-left: 187px; 
+  padding-left: 234px;
+  font-size: 20px;
+  margin-top: -6px;
 }
 .coverage{
     color: rgb(242, 70, 185); 
    padding-left: 106px;
-   margin-top: 17px;
+   margin-top: 14px;
+   font-size: 20px;
   } 
 .main-content{
     width: 1424px;
 }
 .search{
-
-margin-left: 139px;
+    width: 30px;
+    margin-left: 193px;
+    margin-top: 16px;
 }
 .store{
-    margin-left: 0px;
-    margin-top: -42px; 
+    margin-left: 124px;
+    margin-top: -22px; 
+    
 }
 .cart{
     margin-left: -26px;
