@@ -5,48 +5,51 @@ body{
 .header{
 display: flex;
 flex-direction: row;
-height: 50px;
+height: 101px;
 border-top-style: outset;
 border-left-style: outset;
 border-bottom-style:inset;
 border-right-style:inset;
-width: 1236px;
+width: 1235px;
+margin-left:66px ;
+}
+.main-content{
+    width: 1424px;
+    margin-left:66px ;
 }
 .mob{
-    margin-top: -14px;
+    margin-top: 6px;
     padding-left: 33px;
 }
 .shop{
   color: rgb(242, 70, 185); 
   padding-left: 234px;
   font-size: 20px;
-  margin-top: -6px;
+  margin-top: 15px;
 }
 .coverage{
     color: rgb(242, 70, 185); 
    padding-left: 106px;
-   margin-top: 14px;
+   margin-top: 37px;
    font-size: 20px;
   } 
-.main-content{
-    width: 1424px;
-}
+
 .search{
     width: 30px;
     margin-left: 193px;
-    margin-top: 16px;
+    margin-top: 38px;
 }
 .store{
     margin-left: 124px;
-    margin-top: -22px; 
+    margin-top: 1px; 
     
 }
 .cart{
     margin-left: -26px;
-    margin-top: -23px;  
+    margin-top: 2px;  
 }
 .my{
     margin-left: -17px;
-    margin-top: -1px;  
+    margin-top: 22px;  
 }
 
